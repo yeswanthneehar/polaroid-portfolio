@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@800&family=Julius+Sans+One&family=League+Gothic&display=swap');
+body {
+    background-image: url('./assets/images/background.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+  } 
+  
+.myDiv{
+  border: 20px outset rgba(255, 0, 0, 0);
+  background-color: rgba(173, 216, 230, 0);
+}
+
+.options{
+  border: 20px outset rgba(255, 0, 0, 0);
+  background-color: rgba(173, 216, 230, 0);
+  text-align: end;
+}
+
+ .title{
+  font-family: 'Big Shoulders Display', cursive;
+  color: white;
+  font-size: 120px;
+  font-weight: 800px;
+  animation: forwards;
+  border: 0px;
+  padding: 0px;
+}
+.by{
+  font-family: 'League Gothic', sans-serif;
+  color: white;
+  font-size: 60px;
+  width: 98.3px;
+  animation: forwards;
+  border: 0px;
+  padding: 0px;
+}
+
+.material-symbols-outlined{
+  color: white;
+}
+
+.menu{
+  font-family: 'Julius Sans One', sans-serif;
+  color: white;
+  font-size: 35px;
+  animation: none;
+}
